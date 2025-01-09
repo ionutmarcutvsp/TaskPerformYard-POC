@@ -1,0 +1,10 @@
+{
+  "invalidGoalName": {
+    "empty": "",
+    "oneCharacter": "T",
+    "twoCharacters": "Th",
+    "threeCharacters": "Tre",
+    "specialCharacters": "@#!",
+    "specialCharactersAndNumbers": "@23"
+  }
+}

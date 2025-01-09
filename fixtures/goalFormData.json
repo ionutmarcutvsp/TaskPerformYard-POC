@@ -1,0 +1,9 @@
+{
+  "validGoal": {
+    "target": "80",
+    "description": "This is a goal description",
+    "goalCategory": "Corporate",
+    "goalWeight": "100",
+    "successMessage": "Created one Goal"
+  }
+}

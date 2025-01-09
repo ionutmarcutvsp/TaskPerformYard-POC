@@ -1,0 +1,8 @@
+{
+  "goalNameError": {
+    "text": "String must contain at least 4 character(s)"
+  },
+  "goalDueDateError": {
+    "text": "The start date must be before the due date"
+  }
+}
