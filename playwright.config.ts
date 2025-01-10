@@ -2,6 +2,7 @@ import { defineConfig, devices } from '@playwright/test';
 
 export default defineConfig({
   testDir: './tests',
+  reporter: 'html',
   use:{
     headless: true, // Set to true to run in an invisible browser
     browserName: 'chromium',
